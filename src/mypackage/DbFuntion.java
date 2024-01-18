@@ -23,10 +23,10 @@ public class DbFuntion {
         return conn;
     }
     
-    public static void main(String[] args){
-        DbFuntion db = new DbFuntion();
-        db.connect_to_db("crud", "postgres", "");
-    }
+//    public static void main(String[] args){
+//        DbFuntion db = new DbFuntion();
+//        db.connect_to_db("crud", "postgres", "swap2");
+//    }
 }
 
 
